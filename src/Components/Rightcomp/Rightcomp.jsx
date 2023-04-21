@@ -8,7 +8,7 @@ const Rightcomp = () => {
     
 
     useEffect(() => {
-        alert("componentDidUpdate lifecycle method called")
+        alert("componentDidUpdate lifecycle method called in FORM COMPONENT")
     },[todoArr]);
 
    
