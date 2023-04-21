@@ -1,0 +1,24 @@
+.rightComp{
+    height: 100%;
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 1rem;
+}
+
+.rightDataContainer{
+    width: 100%;
+    border: 2px solid red;
+    overflow: auto;
+}
+
+.container{
+    height: 50px;
+    width: 200px;
+    box-shadow: 0 0 10px black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10px auto ;
+}
